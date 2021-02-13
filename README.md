@@ -1,2 +1,2 @@
-# C-_DB_Course_SoftUni
+# MS SQL COURSE OF SoftUni
 DB-Course-From-SoftUni
